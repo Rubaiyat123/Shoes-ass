@@ -1,0 +1,83 @@
+.part-one{
+    background-color: rgb(122, 188, 197);
+}
+.part-two{
+    background-color: powderblue;
+}
+.image-part img{
+    width: 290px;
+}
+.nav-part{
+    color: white;
+    font-weight: 600;
+}
+.image-part-one img{
+    width: 100%;
+}
+.nike-run{
+    margin-top: 50px;
+}
+.nike-run .nike{
+    color: coral;
+    font-size: 50px;
+    font-weight: 700;
+}
+.nike-run .run-part{
+    color:rgb(35, 35, 97);
+    font-size: 50px;
+    font-weight: 700;
+}
+.nike-run .btn-1{
+   background-color:rgb(22, 22, 150);
+    color: white;
+    font-size: 18px;
+}
+.card-part{
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.card-part h5{
+    color:rgb(35, 35, 97);
+    font-size: 25px;
+    font-weight: 600;
+}
+.card-part p{
+    font-size: 15px;
+    color: gray;
+    font-weight: 400;
+}
+.card-part .image-one{
+    height: 350px;
+    background-color: rgb(221, 215, 215);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.card-part .btn-1{
+    background-color:rgb(22, 22, 150);
+     color: white;
+     font-size: 18px;
+     margin-left: auto;
+ }
+footer h1{
+    color:coral;
+}
+.icon-1{
+    margin-top: 20px;
+    border-radius: 30px;
+    border: 1px solid white;
+}
+.icon-1 img{
+    height: 80px;
+}
+.icon-1 p{
+    padding: 5px;
+    margin-top: 7px;
+    font-weight: 500;
+    color: gray;
+}
+.last-img img{
+    height: 300px;
+    margin-top: 40px;
+}
